@@ -67,18 +67,6 @@ priyanshu = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Priyanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyanshutechahead&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshutechahead&layout=compact&theme=github_dark&hide_border=true)
-
-</div>
-
----
-
 ## 🤝 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanshu.paikra@techaheadcorp.com)
