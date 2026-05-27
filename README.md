@@ -14,7 +14,6 @@
 - 🐍 Passionate **Python Developer** with hands-on experience in backend development
 - 🤖 Exploring **AI / ML** — from data preprocessing to model training and deployment
 - 🌱 Currently leveling up in **FastAPI**, **Django**, and **machine learning pipelines**
-- 📋 Daily trainee progress tracked [here](https://techahead-my.sharepoint.com/:x:/g/personal/priyanshu_paikra_techaheadcorp_com/IQAdoF1SdUJaR7zybpjzaSFwAUtItPyBKOtEEg-mltPfeu0?e=4hJd7G)
 - 📫 Reach me at **priyanshu.paikra@techaheadcorp.com**
 - ⚡ Fun fact: I debug faster with coffee ☕
 
