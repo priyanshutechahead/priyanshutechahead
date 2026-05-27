@@ -41,15 +41,6 @@
 
 ---
 
-## 📋 Training Journey @ TechAhead
-
-| Period | Area | What I worked on |
-|--------|------|-----------------|
-| Week 1–2 | ⚡ FastAPI | REST endpoints, routing, dependency injection, Pydantic models |
-| Week 3–4 | 🌐 Django | ORM, migrations, admin panel, authentication flows |
-| Week 5+ | 🤖 AI / ML | Data preprocessing, classification models, scikit-learn pipelines |
-| Ongoing | 🔁 Dev Cycle | Daily stand-ups, code reviews, feature development |
-
 📊 **Full daily log →** [Trainee Update Sheet](https://techahead-my.sharepoint.com/:x:/g/personal/priyanshu_paikra_techaheadcorp_com/IQAdoF1SdUJaR7zybpjzaSFwAUtItPyBKOtEEg-mltPfeu0?e=4hJd7G)
 
 ---
