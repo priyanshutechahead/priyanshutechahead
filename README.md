@@ -40,10 +40,6 @@
 
 ---
 
-📊 **Full daily log →** [Trainee Update Sheet](https://techahead-my.sharepoint.com/:x:/g/personal/priyanshu_paikra_techaheadcorp_com/IQAdoF1SdUJaR7zybpjzaSFwAUtItPyBKOtEEg-mltPfeu0?e=4hJd7G)
-
----
-
 ## 🚧 Current Focus Areas
 
 ```python
